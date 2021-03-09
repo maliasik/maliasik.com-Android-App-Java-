@@ -1,2 +1,2 @@
 # maliasik.com-Android-App-Java-
-maliasik.com web sitemin Android uygulaması kaynak kodlarını burada erişebilirsiniz.
+maliasik.com web sitemin Android uygulaması kaynak kodlarını buradan erişebilirsiniz.
